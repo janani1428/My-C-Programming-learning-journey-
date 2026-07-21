@@ -1,0 +1,18 @@
+//calculate simple intrest
+#include <stdio.h>
+int main(){
+    int a , b;
+
+    printf("enter two numbers:");
+    scanf("%d%d",&a,&b);
+
+    a = a+b;
+    b = a-b;
+    a = a-b;
+
+    printf("after swap:\n");
+    printf("a = %d\n",a);
+    printf("b = %d\n",b);
+    return 0;
+    
+}

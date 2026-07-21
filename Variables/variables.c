@@ -1,0 +1,8 @@
+// declare an integer variable and print it
+#include <stdio.h>
+int main(){
+    int a = 10;
+    printf("value of a is :%d",a);
+    return 0;
+    
+}
