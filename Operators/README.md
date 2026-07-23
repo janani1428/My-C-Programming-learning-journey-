@@ -14,12 +14,14 @@ This repository contains my C programming practice programs on the **Operators**
 9. Vowel or Consonant
 10. Absolute Value of a Number
 11. Swap Two Numbers Using XOR
+12. Add,Sub,Mul,Div Two numbers
+13. smallest of three numbers 
 
 ## Total Programs
-- ✅ Easy: 4
+- ✅ Easy: 6
 - ✅ Intermediate: 6
 - ✅ Advanced: 1
-- **Total: 11 Programs**
+- **Total: 13 Programs**
 
 ## Concepts Covered
 - Arithmetic Operators
